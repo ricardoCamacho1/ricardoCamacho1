@@ -1,12 +1,17 @@
-Hi 👋 My name is Ricardo Camacho 
-================================  
+Hi 👋 My name is Ricardo Camacho  
+
+================================
+
 Data Science and Mathematics Engineer Student 
----------------------------------------------  
+---------------------------------------------
+
+
 I'm studying at Tecnológico de Monterrey and I have been coding for the last three years. I enjoy coding for data science projects and for personal projects, always trying to optimize tasks and do the best work possible.  
 * 🌍  I'm based in Mexico City 
 * ✉️  You can contact me at [ricamcas15@gmail.com](mailto:ricamcas15@gmail.com) 
 * 🧠  I'm learning Machine Learning 
 * 🤝  I'm open to collaborating on Projects, Internships
+
 
 ### Skills  
 
@@ -14,7 +19,9 @@ I'm studying at Tecnológico de Monterrey and I have been coding for the last th
 src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://es.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img
 src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Antu_rstudio.svg" alt="rstudio" width="40" height="40"/> </a> <a href="https://posit.co" target="_blank" rel="noreferrer"> <img
 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> </p> 
+
  ### Socials  <p align="left"> <a href="https://www.github.com/A01654132" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ricardoocamachoo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ricardoCamacho15" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+ 
 ### Badges
 
 <b>My GitHub Stats</b>
