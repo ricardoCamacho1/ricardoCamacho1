@@ -1,4 +1,8 @@
-Hi 👋 My name is Ricardo Camacho ================================  Data Science and Mathematics Engineer Student ---------------------------------------------  I'm studying at Tecnológico de Monterrey and I have been coding for the last three years. I enjoy coding for data science projects and for personal projects, always trying to optimize tasks and do the best work possible.  * 🌍  I'm based in Mexico City * ✉️  You can contact me at [ricamcas15@gmail.com](mailto:ricamcas15@gmail.com) * 🧠  I'm learning Machine Learning * 🤝  I'm open to collaborating on Projects, Internships
+Hi 👋 My name is Ricardo Camacho 
+================================  
+Data Science and Mathematics Engineer Student 
+---------------------------------------------
+I'm studying at Tecnológico de Monterrey and I have been coding for the last three years. I enjoy coding for data science projects and for personal projects, always trying to optimize tasks and do the best work possible.  * 🌍  I'm based in Mexico City * ✉️  You can contact me at [ricamcas15@gmail.com](mailto:ricamcas15@gmail.com) * 🧠  I'm learning Machine Learning * 🤝  I'm open to collaborating on Projects, Internships
 
 ### Skills  
 
